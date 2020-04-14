@@ -1,0 +1,1 @@
+print("ted is wierd")
